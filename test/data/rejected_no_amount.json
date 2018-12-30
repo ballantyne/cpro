@@ -1,0 +1,26 @@
+{
+  "fix": { 
+    "8": "FIX.4.2",
+    "9": "140",
+    "10": "255",
+    "34": "20",
+    "35": "3",
+    "45": "19",
+    "49": "Coinbase",
+    "52": "20180213-21:00:01.222",
+    "56": "b005b7964c6fe87bc4438210f943a17b",
+    "58": "Invalid OrderQty: undefined",
+    "371": "38",
+    "372": "D",
+    "373": "5"
+  },
+  "rejected": { 
+    "time": "2018-02-13T21:00:01.222Z",
+    "timestamp": 1518555601222,
+    "sequence": 19,
+    "reason": { "value": "undefined" },
+    "field": "amount",
+    "reason_code": "value_incorrect"
+  }
+
+}

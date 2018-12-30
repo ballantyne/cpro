@@ -1,0 +1,17 @@
+{
+    "files": [
+        "src/*.ts",
+        "src/**/*.ts"
+    ],
+    "type": "node",
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "noImplicitAny": true,
+        "target": "es6",
+        "module": "commonjs",
+        "strict": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

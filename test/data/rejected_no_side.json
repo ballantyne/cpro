@@ -1,0 +1,27 @@
+{
+  "fix": { 
+    "8": "FIX.4.2",
+    "9": "136",
+    "10": "097",
+    "34": "94",
+    "35": "3",
+    "45": "91",
+    "49": "Coinbase",
+    "52": "20180213-20:00:14.129",
+    "56": "b005b7964c6fe87bc4438210f943a17b",
+    "58": "Invalid Side: undefined",
+    "371": "54",
+    "372": "D",
+    "373": "5" 
+  },
+  "rejected": { 
+    "time": "2018-02-13T20:00:14.129Z",
+    "timestamp": 1518552014129,
+    "sequence": 91,
+    "reason": { 
+      "value": "undefined" 
+    },
+    "field": "side",
+    "reason_code": "value_incorrect" 
+  }
+}

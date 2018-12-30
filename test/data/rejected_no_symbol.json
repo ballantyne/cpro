@@ -1,0 +1,25 @@
+{
+  "fix": 
+   { "8": "FIX.4.2",
+     "9": "135",
+     "10": "092",
+     "34": "73",
+     "35": "3",
+     "45": "70",
+     "49": "Coinbase",
+     "52": "20180213-19:49:50.256",
+     "56": "b005b7964c6fe87bc4438210f943a17b",
+     "58": "Symbol must be present",
+     "371": "55",
+     "372": "D",
+     "373": "1" 
+   },
+   "rejected": { 
+     "time": "2018-02-13T19:49:50.256Z",
+     "timestamp": 1518551390256,
+     "sequence": 70,
+     "reason": "symbol_must_be_present",
+     "field": "symbol",
+     "reason_code": "missing" 
+  }
+}
