@@ -57,7 +57,7 @@ In the code it will do a fs.readFileSync('./cert.pem') so depending on what syst
 openssl s_client -showcerts -connect fix.pro.coinbase.com:4198 < /dev/null | openssl x509 -outform PEM > cert.pem
 ```
 
-Donations
+Tips
 ------------
 
 Here are a few addresses where you can send me bitcoins.  If this library helps you and you are feeling especially generous, show me the money.
