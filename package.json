@@ -1,6 +1,6 @@
 {
   "name": "cpro",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Coinbase Pro Fix Client",
   "main": "index.js",
   "scripts": {
